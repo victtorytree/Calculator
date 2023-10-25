@@ -1,0 +1,12 @@
+окт. 25, 2023 4:55:21 PM finalProject.Calculator initCalculator
+INFO: operation: 4.0+5.0i + 3.0+1.0i = 7.0+6.0i
+окт. 25, 2023 4:56:29 PM finalProject.Calculator initCalculator
+INFO: operation: 17.0+3.0i / 8.0+1.0i = 2.125+3.0i
+окт. 25, 2023 4:56:45 PM finalProject.Calculator initCalculator
+INFO: operation: 23.0+11.0i * 17.0+3.0i = 391.0+33.0i
+окт. 25, 2023 4:57:00 PM finalProject.Calculator initCalculator
+INFO: operation: 13.0+7.0i + 4.0-8.0i = 17.0-1.0i
+окт. 25, 2023 4:57:15 PM finalProject.Calculator initCalculator
+INFO: Error!
+окт. 25, 2023 4:57:31 PM finalProject.Calculator initCalculator
+INFO: operation: 9.0+10.0i + 21.0+8.0i = 30.0+18.0i
